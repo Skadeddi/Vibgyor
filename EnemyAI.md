@@ -1,10 +1,11 @@
 # Enemy AI
 
 ## Description
-If the player gets within a certain radius the enemy raycasts to check for "walls", if no "walls" (game objects on default layer) are found the enemy chases the player. If the player can't be seen for 3 or more seconds the enemy returns to its starting position. The enemy always rotates towards the player about the y-axis. 
+If the player gets within a certain radius the enemy raycasts to check for "walls", if no "walls" (game objects on default layer) are found the enemy chases the player. If the player can't be seen for chasetime variable amount  or more seconds the enemy returns to its starting position. The enemy always rotates towards the player about the y-axis. The enemy shoots a projectile every 3 seconds when player is in view.
 
 ## Interactions
-* the "hit" custom function with 1 argument for damage can be used on the parent gameobject to deal damage, enemy dies at health <= 0
+* the "hit" custom event with 1 argument for damage can be used on the enemy parent gameobject to deal damage, enemy dies at health <= 0
+* the "playerhit" custom event with 1 argument for damage can be used to take damage from the projectile 
 
 ## Requirements
 * Navmesh surface data
