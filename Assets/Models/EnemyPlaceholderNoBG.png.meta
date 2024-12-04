@@ -1,0 +1,2204 @@
+fileFormatVersion: 2
+guid: 3ee1c1a0ab8562149b7c913b9f13b9e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d62ce303e2be74692cde7b527e2de6
+      internalID: -1161404641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4291d5b58e84458477ee922dc5405
+      internalID: 118395491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d4422b27d11e146bcae18e2e717aaf
+      internalID: 687662742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e293b718470b964989a5d88b86860dd
+      internalID: -1305937203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897dee8931b9ee47ba03b296e6db909
+      internalID: -886606998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd72baaed2ef0244806e46870691e05
+      internalID: 1840769721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c90826342a694da2c4ec9fa0d988d
+      internalID: -1057902176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1131
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33e46bafb8adbc4c9517be93c7e2c89
+      internalID: 1439399107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a33d23cc58d44396158c92eb6fb78
+      internalID: -533555379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1755cc0e22904b99e835966bfd302
+      internalID: -1030051502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417dda5929b61e84ab0354b913a16e80
+      internalID: 558514917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989306d79aaf144db2646371121ab34
+      internalID: 893971129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5ebe7adc0f30408877901d539abcc
+      internalID: 76671065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6500bfd5870974e8df96597da77fd4
+      internalID: -1750488791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f776835453de49a9f55475210468d
+      internalID: -1587699206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f8ad94ed1aa64a919df3352411088
+      internalID: -2041189868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20251bc905a16d4eb7ff73a47cba179
+      internalID: 1639452132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa55e136072d5349b48a7107507f4c5
+      internalID: 899528130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a8a339bdd23c3448f634ae2d464e4d
+      internalID: 387281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed741864d14a2b498de7258e066abc5
+      internalID: 558434324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948ffa3cd05b2e4db81856dd526fa4b
+      internalID: 246944752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d6111b82f5fb46b01a0b608d8ee6f
+      internalID: -1891300173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cb6740d8c91547bb64948ddf6fde3
+      internalID: 1066254473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 939
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a772b826a3144aa02d41d6618fc52
+      internalID: 2023330988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bbbf87ee29b7643a59f1d7f4f3d9d0
+      internalID: 1138093047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de7a8898b3b01459365b2b0c2b7c99
+      internalID: -823729049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddb3d63dd94b047a8ae68246904b9e
+      internalID: -1793023796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc6ded7f75b254ebaae78e1124e6cf
+      internalID: 358058666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843fc23dc36b2894c94fdb30b36177f0
+      internalID: 2017526787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_29
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a253992cbdf211f4dbd75077bfb04e0a
+      internalID: 790753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7826f50aae24243bf1e69a6b915c68
+      internalID: -607134606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_31
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ea54f7ebf7244aa3149a880013dc0
+      internalID: -1829062628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ca4dca0fb41134b9fac929e1f57443
+      internalID: -382030119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0a53b2bf66b244b622d0aebe46db1
+      internalID: 599990249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035eafa1591e16f48b4f88e77431c828
+      internalID: -1149970174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ce56d7d45bdb40a560849b9d8bd7c
+      internalID: -1352259952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b76d31826ef64e9dda44eba7a85bd
+      internalID: 954006612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_37
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c2e6af365e76459f492e705d4a12a
+      internalID: -1268201904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c0870ccf6f684dac27d18275b6f2e
+      internalID: 1984512194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 747
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371c135ce3687c48bcc8ce711973455
+      internalID: -1423926129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057889331a689f439facb613c1688ed
+      internalID: -508546049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67209b6b1105a4589c3f2316f316a6
+      internalID: 432249173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd76df2d7f10f40827c327e4373963
+      internalID: 1736931006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9755c5cc19d949934a67434d626b9
+      internalID: -1475447163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad337aac7a52ff45a44b1ec6773280f
+      internalID: -1878292519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649eb2b6f4032dc4696ca3c1aa566e01
+      internalID: -704328651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_46
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001ac4244436f84d83b291b638f37f6
+      internalID: 491770604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 651
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e4c83dda36c547a33241a59fd350a
+      internalID: -840490765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e227b1ff42c4904d9c7084ea0b34ffb
+      internalID: -1416860656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd9d09cb2b47b4a9ca9b76f66dda57
+      internalID: 1050744740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eab8df960889a949b99072167d6ae75
+      internalID: -1202498211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_51
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394dc31dc284e6e499751e022b4f2114
+      internalID: 643973884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582337e50fb687c47a9218403f6ca0e9
+      internalID: -605842207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a4081882d8854e9cfc238a59d6762
+      internalID: 1966229341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_54
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8debd9fbd5644daeba2f3621357cf
+      internalID: -1767463606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_55
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5425c87a17a32a342b5364b1c1e39520
+      internalID: -536258042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcdb2c68cd7e4f4f902b2c96fb46587
+      internalID: -2002513010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48eee5838159f4d8109fb4a5143d63
+      internalID: -1955799689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f40d9b4ddf7ec45a99115c7878d6b9
+      internalID: 195341314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5bdc46697cfe5448097f970af70d02
+      internalID: -1491633590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d6ec96caf1b847bd16ecf7570a378
+      internalID: 153862935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_61
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e02432f3f68a04bb422e543dd4e209
+      internalID: 1144315730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_62
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a4859971f60c4ca37fa999a25de26
+      internalID: 325496167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 459
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d328e3d297a3e47864947d03041bbf
+      internalID: -607213628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0b7259024ea4d4e84b92a81e5670f4
+      internalID: 716943970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d03bd1f0d2575408d59569df5253de
+      internalID: 1586344998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af554fe63c0894d95f19088e64802a
+      internalID: 1743537998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_67
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f170d2438552240b90bd617fda73a8
+      internalID: -657003050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c562cce24371459eae673eeaf08e7
+      internalID: 1922846664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15730c145369a64eb9c89b2facbe493
+      internalID: 1551018923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_70
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a32f3b1e562146aa89730dbc41b29
+      internalID: 301263156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ca1feb7bfca44b970ab92279a5631
+      internalID: -1584129842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07efc6fc302cb9b449e20e5aa55c6e95
+      internalID: -361089539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd269a1a9b5b0648969818405fbfc39
+      internalID: 281129435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_74
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a26dde8bb8824e929a4cbaea22488
+      internalID: 1086923042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb9920bf501e24ca99878e42350b8a
+      internalID: -1272581267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf677e775060d4cb223bb19a8a67e4
+      internalID: -2032254205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_77
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d41c9a2302bef439585c873c3edf6a
+      internalID: -1989560452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_78
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60504b5a19ca9c146bab2433be2defde
+      internalID: -176101558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_79
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07899ee2c54e64997a6323ffea8466
+      internalID: -1723685867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f0daa8a493684a9724a88d4da4adc
+      internalID: -1209226089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05652d773dd8a344fb9846c97f6238b5
+      internalID: -1019561969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894157bde05668b40876803ef4b9967c
+      internalID: -1603174679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_83
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4f7d7a849c58409d072fe6e4b9a05
+      internalID: -333499320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489d047c1338e6469f4ffc339af369c
+      internalID: 590210332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc316545c045de4691befece56dcff7
+      internalID: -323564978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115333f90301aa4bb770b37e6f4fb54
+      internalID: 1214441245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 171
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6e7cb8d3fe5640954e4a5a013649c
+      internalID: -978875563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba513f28687b6e499eea6d60dc3ec17
+      internalID: -2025157679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb550eed373e70a4a9f0413da6a88917
+      internalID: -890925659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b7be19785eab4a89a209ad4d1763a
+      internalID: -1893843541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_91
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168aa15161eb26545bc9fe6c2182303f
+      internalID: -1065926256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e965e9f21ad84394b0a372420133e
+      internalID: -14395578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_93
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c86eaa2761dc4bb78d34570da58b7
+      internalID: 2140381484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlaceholderNoBG_94
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 75
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca76e120e8c2a4d900f098c1572db4
+      internalID: -1026574874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bded6256458e13e469d78dd9df9639f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyPlaceholderNoBG_0: -1161404641
+      EnemyPlaceholderNoBG_1: 118395491
+      EnemyPlaceholderNoBG_10: 558514917
+      EnemyPlaceholderNoBG_11: 893971129
+      EnemyPlaceholderNoBG_12: 76671065
+      EnemyPlaceholderNoBG_13: -1750488791
+      EnemyPlaceholderNoBG_14: -1587699206
+      EnemyPlaceholderNoBG_15: -2041189868
+      EnemyPlaceholderNoBG_16: 1639452132
+      EnemyPlaceholderNoBG_17: 899528130
+      EnemyPlaceholderNoBG_18: 387281328
+      EnemyPlaceholderNoBG_19: 558434324
+      EnemyPlaceholderNoBG_2: 687662742
+      EnemyPlaceholderNoBG_20: 246944752
+      EnemyPlaceholderNoBG_21: -1891300173
+      EnemyPlaceholderNoBG_22: 1066254473
+      EnemyPlaceholderNoBG_23: 2023330988
+      EnemyPlaceholderNoBG_24: 1138093047
+      EnemyPlaceholderNoBG_25: -823729049
+      EnemyPlaceholderNoBG_26: -1793023796
+      EnemyPlaceholderNoBG_27: 358058666
+      EnemyPlaceholderNoBG_28: 2017526787
+      EnemyPlaceholderNoBG_29: 790753859
+      EnemyPlaceholderNoBG_3: -1305937203
+      EnemyPlaceholderNoBG_30: -607134606
+      EnemyPlaceholderNoBG_31: -1829062628
+      EnemyPlaceholderNoBG_32: -382030119
+      EnemyPlaceholderNoBG_33: 599990249
+      EnemyPlaceholderNoBG_34: -1149970174
+      EnemyPlaceholderNoBG_35: -1352259952
+      EnemyPlaceholderNoBG_36: 954006612
+      EnemyPlaceholderNoBG_37: -1268201904
+      EnemyPlaceholderNoBG_38: 1984512194
+      EnemyPlaceholderNoBG_39: -1423926129
+      EnemyPlaceholderNoBG_4: -886606998
+      EnemyPlaceholderNoBG_40: -508546049
+      EnemyPlaceholderNoBG_41: 432249173
+      EnemyPlaceholderNoBG_42: 1736931006
+      EnemyPlaceholderNoBG_43: -1475447163
+      EnemyPlaceholderNoBG_44: -1878292519
+      EnemyPlaceholderNoBG_45: -704328651
+      EnemyPlaceholderNoBG_46: 491770604
+      EnemyPlaceholderNoBG_47: -840490765
+      EnemyPlaceholderNoBG_48: -1416860656
+      EnemyPlaceholderNoBG_49: 1050744740
+      EnemyPlaceholderNoBG_5: 1840769721
+      EnemyPlaceholderNoBG_50: -1202498211
+      EnemyPlaceholderNoBG_51: 643973884
+      EnemyPlaceholderNoBG_52: -605842207
+      EnemyPlaceholderNoBG_53: 1966229341
+      EnemyPlaceholderNoBG_54: -1767463606
+      EnemyPlaceholderNoBG_55: -536258042
+      EnemyPlaceholderNoBG_56: -2002513010
+      EnemyPlaceholderNoBG_57: -1955799689
+      EnemyPlaceholderNoBG_58: 195341314
+      EnemyPlaceholderNoBG_59: -1491633590
+      EnemyPlaceholderNoBG_6: -1057902176
+      EnemyPlaceholderNoBG_60: 153862935
+      EnemyPlaceholderNoBG_61: 1144315730
+      EnemyPlaceholderNoBG_62: 325496167
+      EnemyPlaceholderNoBG_63: -607213628
+      EnemyPlaceholderNoBG_64: 716943970
+      EnemyPlaceholderNoBG_65: 1586344998
+      EnemyPlaceholderNoBG_66: 1743537998
+      EnemyPlaceholderNoBG_67: -657003050
+      EnemyPlaceholderNoBG_68: 1922846664
+      EnemyPlaceholderNoBG_69: 1551018923
+      EnemyPlaceholderNoBG_7: 1439399107
+      EnemyPlaceholderNoBG_70: 301263156
+      EnemyPlaceholderNoBG_71: -1584129842
+      EnemyPlaceholderNoBG_72: -361089539
+      EnemyPlaceholderNoBG_73: 281129435
+      EnemyPlaceholderNoBG_74: 1086923042
+      EnemyPlaceholderNoBG_75: -1272581267
+      EnemyPlaceholderNoBG_76: -2032254205
+      EnemyPlaceholderNoBG_77: -1989560452
+      EnemyPlaceholderNoBG_78: -176101558
+      EnemyPlaceholderNoBG_79: -1723685867
+      EnemyPlaceholderNoBG_8: -533555379
+      EnemyPlaceholderNoBG_80: -1209226089
+      EnemyPlaceholderNoBG_81: -1019561969
+      EnemyPlaceholderNoBG_82: -1603174679
+      EnemyPlaceholderNoBG_83: -333499320
+      EnemyPlaceholderNoBG_84: 590210332
+      EnemyPlaceholderNoBG_85: -323564978
+      EnemyPlaceholderNoBG_86: 1214441245
+      EnemyPlaceholderNoBG_87: -978875563
+      EnemyPlaceholderNoBG_88: -2025157679
+      EnemyPlaceholderNoBG_89: -890925659
+      EnemyPlaceholderNoBG_9: -1030051502
+      EnemyPlaceholderNoBG_90: -1893843541
+      EnemyPlaceholderNoBG_91: -1065926256
+      EnemyPlaceholderNoBG_92: -14395578
+      EnemyPlaceholderNoBG_93: 2140381484
+      EnemyPlaceholderNoBG_94: -1026574874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
