@@ -10,7 +10,8 @@ public class CameraMovement : MonoBehaviour
 
     private void Start()
     {
-        player = GameObject.Find("Player");    
+        player = GameObject.Find("Player(Clone)");
+        Cursor.lockState = CursorLockMode.Locked;
     }
 
     void Update()
