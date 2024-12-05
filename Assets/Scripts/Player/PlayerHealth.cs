@@ -2,19 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Unity.VisualScripting;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public Image healthBar;
+    private Image healthBar;
     private float hp = 100;
-    
-    public void HitPlayer(int damage)
+    private VariableDeclarations vars;
+
+    private void Start()
     {
-        hp -= damage;
-        if(hp <= 0)
-        {
-            //Do something
-        }
-        healthBar.fillAmount = hp / 100f;
+        healthBar = GameObject.Find("Healthbar").GetComponent<Image>();
+        vars = Variables.Scene(SceneManager.GetActiveScene());
     }
+
+    private void Update()
+    {
+        healthBar.fillAmount = ((int) vars.Get("PlayerHealth")) / 100.0f;
+    }
+
 }
