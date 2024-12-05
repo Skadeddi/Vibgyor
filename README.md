@@ -1,6 +1,20 @@
 # Vibgyor
 MSCH-C220 Game Jam, December 2024
 
+# TO DO BEFORE 6:15
+## Essential
+* Generate environment
+* Spawn enemies
+* Menus (DONE)
+* UI: Health, Score
+* Can shoot enemies
+* Enemies can shoot the Player
+* Different Enemies are visable depending on reversed colors
+## If we have time
+* Enemy variants
+* Multiple levels
+
+
 ## Theme
 Players can reverse the colors and see a different set of enemies.
 
