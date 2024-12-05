@@ -13,7 +13,7 @@ Space - Reverse colors
 Mouse - Camera movement
 
 ## Impediments
-Struggles or surprises you encountered during the development of the game
+Thankfully things went pretty smooth, some features took longer than expected to code but overall no major impediments.
 
 ## Implementation
 * Player can move and shoot
@@ -26,6 +26,9 @@ Struggles or surprises you encountered during the development of the game
 Magic VFX: https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933 
 
 ## Future Development
+* Enemy variants that didn't get used
+* Better difficulty
+* More polish
 
 # Created by: Vibgyor
 Andrew Theriault - Enemies
