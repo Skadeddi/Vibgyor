@@ -215,6 +215,7 @@ public class HouseGeneration : MonoBehaviour
                 }
             }
         }
+        GetComponent<NavMeshGenerator>().BakeMesh(GameObject.Find("Room4(Clone)").GetComponent<NavMeshSurface>());
     }
 
     private IEnumerator roomBuffer()

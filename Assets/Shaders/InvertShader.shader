@@ -11,7 +11,7 @@ Shader "CustomEffects/Invert"
         float4 InvertColor (Varyings input) : SV_Target
         {
             float3 color = SAMPLE_TEXTURE2D(_BlitTexture, sampler_LinearClamp, input.texcoord).rgb;
-            return float4(1 - color.r, 1 - color.g, 1 - color.b, 1);
+            return float4(0.5 - color.r, 0.5 - color.g, 0.5 - color.b, 1);
         }
 
         float4 SimpleBlit (Varyings input) : SV_Target
