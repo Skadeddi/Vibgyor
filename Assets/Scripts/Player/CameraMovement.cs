@@ -15,16 +15,10 @@ public class CameraMovement : MonoBehaviour
 
     void Update()
     {
-        pitch = -Input.GetAxisRaw("Mouse Y");
-        yaw = Input.GetAxisRaw("Mouse X");
-        transform.eulerAngles += new Vector3(pitch, yaw, 0) * Time.deltaTime * sens;
-
-        Debug.Log(transform.eulerAngles.x);
-        if(transform.eulerAngles.x > 80 && transform.eulerAngles.x < 280)
-        {
-            transform.eulerAngles = new Vector3(80, transform.eulerAngles.y, 0);
-        }
-
+        pitch -= Input.GetAxisRaw("Mouse Y") * sens * Time.deltaTime;
+        yaw += Input.GetAxisRaw("Mouse X") * sens * Time.deltaTime;
+        pitch = Mathf.Clamp(pitch, -80f, 80f);
+        transform.eulerAngles = new Vector3(pitch, yaw, 0);
         transform.position = new Vector3(player.transform.position.x, player.transform.position.y + 0.5f, player.transform.position.z);
     }
 }
