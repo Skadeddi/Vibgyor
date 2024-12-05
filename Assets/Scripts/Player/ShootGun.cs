@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Unity.VisualScripting;
 
 public class ShootGun : MonoBehaviour
 {
@@ -24,7 +25,7 @@ public class ShootGun : MonoBehaviour
             gunimator.SetTrigger("Shoot");
             if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, 100, enemyLayer))
             {
-                Debug.Log("Enemy hit!");
+                CustomEvent.Trigger(hit.transform.gameObject, "hit", Random.Range(10, 20));
             }
         }
     }
