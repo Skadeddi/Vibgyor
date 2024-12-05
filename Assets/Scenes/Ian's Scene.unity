@@ -171,9 +171,6 @@ MonoBehaviour:
   - {fileID: 4542937598015413379, guid: 0460229a21426b74db996170edd215ed, type: 3}
   - {fileID: 1926929652489129801, guid: 08c6d82482bdf91439989c0775c5daab, type: 3}
   - {fileID: 1926929652489129801, guid: 19700d5efc1459f4c98cccabd94594ca, type: 3}
-  doorObj: {fileID: 0}
-  enemy: {fileID: 0}
-  enemyCountHandler: {fileID: 0}
 --- !u!4 &662991612
 Transform:
   m_ObjectHideFlags: 0
@@ -215,6 +212,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 5573185268826656596, guid: a16bb0f26a3f9444bb27e8a81d4471d2, type: 3}
   mainCam: {fileID: 5542471416599753706, guid: 60653ddb531242b45b2550e9443e8b2c, type: 3}
+  realEnemy: {fileID: 1488901679888198221, guid: fdacd6a91166025459fa9c46ffcb9450,
+    type: 3}
+  weedEnemy: {fileID: 1235508036604623777, guid: 12ce2262d6ec7ed4d80bd118af116908,
+    type: 3}
 --- !u!1 &1137013048
 GameObject:
   m_ObjectHideFlags: 0

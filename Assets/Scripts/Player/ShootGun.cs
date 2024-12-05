@@ -13,7 +13,7 @@ public class ShootGun : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        cam = GameObject.Find("Main Camera(Clone)").GetComponent<Camera>();
+        cam = GameObject.Find("Main Camera").GetComponent<Camera>();
         gunimator = GameObject.Find("Gun").GetComponent<Animator>();
     }
 
