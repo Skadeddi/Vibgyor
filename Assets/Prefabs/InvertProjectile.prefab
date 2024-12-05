@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8476110835323948322}
   - component: {fileID: 4338245793160488603}
   - component: {fileID: 2700992448530622466}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Slash2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.7539707, b: 0.5254902, a: 0.42745098}
+      maxColor: {r: 0.5254902, g: 0.59864587, b: 1, a: 0.42745098}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -1366,8 +1366,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 1, b: 1, a: 0}
-        key1: {r: 1, g: 1, b: 1, a: 1}
+        key0: {r: 0, g: 0.104768455, b: 0.3132075, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -4903,8 +4903,8 @@ GameObject:
   - component: {fileID: 7766930272965793989}
   - component: {fileID: 6174661183655117522}
   - component: {fileID: 8504727213309504019}
-  m_Layer: 8
-  m_Name: Projectile
+  m_Layer: 10
+  m_Name: InvertProjectile
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5070,7 +5070,7 @@ GameObject:
   - component: {fileID: 4469541707172790650}
   - component: {fileID: 2718971510266874192}
   - component: {fileID: 5285065608270615403}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Slash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5282,7 +5282,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.91494894, b: 0.5254902, a: 0.42745098}
+      maxColor: {r: 0.5254902, g: 0.6383659, b: 1, a: 0.42745098}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -6425,8 +6425,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 1, b: 1, a: 0}
-        key1: {r: 1, g: 1, b: 1, a: 1}
+        key0: {r: 0, g: 0.044578183, b: 0.2830189, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -9958,7 +9958,7 @@ GameObject:
   - component: {fileID: 7166739816287014358}
   - component: {fileID: 1936402069195072679}
   - component: {fileID: 7888008199597057263}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}

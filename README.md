@@ -9,7 +9,7 @@ MSCH-C220 Game Jam, December 2024
 * UI: Health, Score
 * Can shoot enemies
 * Enemies can shoot the Player
-* Different Enemies are visable depending on reversed colors
+* Different Enemies are visable depending on reversed colors (DONE)
 ## If we have time
 * Enemy variants
 * Multiple levels
