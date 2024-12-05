@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8476110835323948322}
   - component: {fileID: 4338245793160488603}
   - component: {fileID: 2700992448530622466}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slash2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5070,7 +5070,7 @@ GameObject:
   - component: {fileID: 4469541707172790650}
   - component: {fileID: 2718971510266874192}
   - component: {fileID: 5285065608270615403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9958,7 +9958,7 @@ GameObject:
   - component: {fileID: 7166739816287014358}
   - component: {fileID: 1936402069195072679}
   - component: {fileID: 7888008199597057263}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}

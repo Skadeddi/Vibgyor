@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7750361584154629118}
   - component: {fileID: 7577855166728577007}
   - component: {fileID: 6999359171877750508}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Flash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.8621718, b: 0.48627448, a: 0.3764706}
+      maxColor: {r: 1, g: 0.9554287, b: 0.48627448, a: 0.3764706}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4899,7 +4899,7 @@ GameObject:
   - component: {fileID: 6181038144048174635}
   - component: {fileID: 426796228433180527}
   - component: {fileID: 9024919553052095942}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: ShockWave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5111,7 +5111,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.636079, b: 0.33333337, a: 1}
+      maxColor: {r: 1, g: 0.86922604, b: 0.33333337, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -9789,8 +9789,8 @@ GameObject:
   - component: {fileID: 1585105505286653865}
   - component: {fileID: 2035832843917919730}
   - component: {fileID: 6768550923725952776}
-  m_Layer: 8
-  m_Name: Explosion
+  m_Layer: 10
+  m_Name: InvertExplosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10004,7 +10004,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.7139466, b: 0.36470592, a: 1}
+      maxColor: {r: 0.9989585, g: 1, b: 0.36470592, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -14720,7 +14720,7 @@ GameObject:
   - component: {fileID: 8110153723090227616}
   - component: {fileID: 3887503793983436339}
   - component: {fileID: 1704315291164288319}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -223,7 +223,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5254902, g: 0.59864587, b: 1, a: 0.42745098}
+      maxColor: {r: 0.5254902, g: 0.6275875, b: 1, a: 0.42745098}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -1366,8 +1366,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0, g: 0.104768455, b: 0.3132075, a: 0}
-        key1: {r: 0, g: 0, b: 0, a: 1}
+        key0: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 0}
+        key1: {r: 0.3132075, g: 0.3132075, b: 0.3132075, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -5015,7 +5015,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Explosion","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 1866064045181876395, guid: e2778b29a0c111a4ab078dbfb96ee154, type: 3}
+    - {fileID: 1866064045181876395, guid: 69209d1728fe09a4996fcc2e73ab353f, type: 3}
 --- !u!114 &6174661183655117522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5282,7 +5282,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5254902, g: 0.6383659, b: 1, a: 0.42745098}
+      maxColor: {r: 0.5254902, g: 0.58689463, b: 1, a: 0.42745098}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -6425,8 +6425,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0, g: 0.044578183, b: 0.2830189, a: 0}
-        key1: {r: 0, g: 0, b: 0, a: 1}
+        key0: {r: 0.2905661, g: 0.2905661, b: 0.2905661, a: 0}
+        key1: {r: 0.2679245, g: 0.2679245, b: 0.2679245, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -10172,7 +10172,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0.63459915, b: 0, a: 1}
+      maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
