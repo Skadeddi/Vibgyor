@@ -11,6 +11,7 @@ public class LevelBuffer : MonoBehaviour
     private Image loadingScreen;
     private GameObject pl;
     private VariableDeclarations vars;
+    public int enemyCount;
     // Start is called before the first frame update
     void Start()
     {
@@ -37,9 +38,11 @@ public class LevelBuffer : MonoBehaviour
                     {
                         case 0:
                             Instantiate(realEnemy, new Vector3(x * 20 - 180, -2.7f, y * 20 - 180), Quaternion.Euler(0, 0, 0));
+                            enemyCount++;
                             break;
                         case 1:
                             Instantiate(weedEnemy, new Vector3(x * 20 - 180, -2.7f, y * 20 - 180), Quaternion.Euler(0, 0, 0));
+                            enemyCount++;
                             break;
                     }
                 }
