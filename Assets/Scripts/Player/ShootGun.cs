@@ -23,9 +23,12 @@ public class ShootGun : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             gunimator.SetTrigger("Shoot");
-            if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, 100, enemyLayer))
+            if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, 100))
             {
-                CustomEvent.Trigger(hit.transform.gameObject, "hit", Random.Range(10, 20));
+                if (hit.collider.gameObject.CompareTag("Enemy"))
+                {
+                    CustomEvent.Trigger(hit.transform.gameObject, "hit", Random.Range(10, 20));
+                }
             }
         }
     }
