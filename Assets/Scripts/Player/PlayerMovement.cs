@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     
     void Start()
     {
-        cam = GameObject.Find("Main Camera(Clone)").GetComponent<Camera>();
+        cam = GameObject.Find("Main Camera").GetComponent<Camera>();
         cc = GetComponent<CharacterController>();
     }
 

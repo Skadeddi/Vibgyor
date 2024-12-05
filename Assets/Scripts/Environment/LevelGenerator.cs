@@ -3,17 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using Unity.AI.Navigation;
 
-public class HouseGeneration : MonoBehaviour
+public class LevelGenerator : MonoBehaviour
 {
-    private Room[,] house = new Room[20, 20];
+    public Room[,] house = new Room[20, 20];
     public GameObject[] roomTemplates = new GameObject[17];
-    public GameObject doorObj, enemy, enemyCountHandler;
     private Room[] roomList = new Room[17];
-    private int enemyCount;
     // Start is called before the first frame update
     void Start()
     {
-        enemyCountHandler = GameObject.Find("EnemyCountHandler");
         roomList = new Room[] {new Room(roomTemplates[0], new string[] { "North", "East", "South", "West"}),
                                 new Room(roomTemplates[1], new string[] {"East", "South", "West"}),
                                 new Room(roomTemplates[2], new string[] {"North", "South", "West"}),
