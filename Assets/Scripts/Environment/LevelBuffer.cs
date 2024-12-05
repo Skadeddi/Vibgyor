@@ -65,6 +65,9 @@ public class LevelBuffer : MonoBehaviour
 
     private void Update()
     {
-        enemyCounter.text = vars.Get("EnemyCount").ToString();
+        if (vars != null)
+        {
+            enemyCounter.text = vars.Get("EnemyCount").ToString();
+        }
     }
 }
