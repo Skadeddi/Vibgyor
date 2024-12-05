@@ -17,7 +17,7 @@ Struggles or surprises you encountered during the development of the game
 
 ## Implementation
 Features
-Assets, or resources used
+Magic VFX: https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933 
 
 ## References
 
