@@ -5,7 +5,7 @@ MSCH-C220 Game Jam, December 2024
 Players can reverse the colors and see a different set of enemies.
 
 ## Game Play
-Objective: Kill all Enemies to advance to the next level and the difficulty increases, survive as many levels as you can and get the highest score
+Objective: Kill all Enemies to advance to the next level and the difficulty (ideally) increases, survive as many levels as you can and get the highest score
 
 Game-play instructions:
 WASD - Movemnent
@@ -13,7 +13,7 @@ Space - Reverse colors
 Mouse - Camera movement
 
 ## Impediments
-Thankfully things went pretty smooth, some features took longer than expected to code but overall no major impediments.
+Game mostly works some issues took long to solve. Game doesn't change to next level on killing all enemies.
 
 ## Implementation
 * Player can move and shoot
